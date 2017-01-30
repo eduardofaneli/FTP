@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/18 15:15:33.000.596,=C:\Users\eduardo.faneli\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/11/21 12:27:57.000.963,=C:\Users\eduardo.faneli\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/19 16:45:52.000.836,=C:\Users\eduardo.faneli\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/20 09:46:27.000.667,=C:\Users\eduardo.faneli\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/20 10:10:07.000.064,C:\FTP\uFrmFTP.dfm=C:\Users\eduardo.faneli\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/01/20 10:10:07.000.064,C:\FTP\uFrmFTP.pas=C:\Users\eduardo.faneli\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/20 10:10:10.000.376,C:\FTP\FTP.dproj=C:\Users\eduardo.faneli\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/01/20 11:21:49.000.086,=C:\FTP\Unit1.pas</Transaction>
+    <Transaction>2017/01/20 13:09:09.000.139,=C:\FTP\Unit1.pas</Transaction>
+    <Transaction>2017/01/20 13:09:20.000.189,C:\FTP\uClasses.pas=C:\FTP\Unit1.pas</Transaction>
+    <Transaction>2017/01/25 14:25:08.000.017,=C:\FTP\Unit1.pas</Transaction>
+    <Transaction>2017/01/25 16:18:51.000.420,=C:\FTP\Unit1.pas</Transaction>
+    <Transaction>2017/01/25 16:19:09.000.926,C:\FTP\Unit1.pas=C:\FTP\uClasseFTP.pas</Transaction>
+    <Transaction>2017/01/26 13:44:44.000.328,=C:\FTP\Unit1.pas</Transaction>
+    <Transaction>2017/01/26 13:45:02.000.295,C:\FTP\uClasseUtils.pas=C:\FTP\Unit1.pas</Transaction>
+    <Transaction>2017/01/26 16:18:15.000.299,=C:\FTP\Unit1.pas</Transaction>
+    <Transaction>2017/01/26 16:18:24.000.220,C:\FTP\uThreadFTP.pas=C:\FTP\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
